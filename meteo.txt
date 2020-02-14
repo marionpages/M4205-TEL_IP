@@ -1,4 +1,4 @@
 Voici la météo du jour : 
-Lhumidité est de : 75%
-La température est de : 9 C
-Le vent est de : 9 MPH
+Lhumidité est de : 44%
+La température est de : 16 
+Le vent est de : 13 MPH
